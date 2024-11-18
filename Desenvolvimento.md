@@ -21,8 +21,7 @@ alterado por meio do ajuste da tensão de referência no comparador.
 
 Para o suporte do projeto, utilizamos um modelo disponível no Thingiverse como base.
 
-![694957be85e14cae4f33ac5997d11b8a_display_large](https://github.com/user-attachments/assets/1cc49ee8-34da-4b27-a638-5d3e65a97f1e)
-
+![Captura de tela 2024-11-18 132002](https://github.com/user-attachments/assets/312890af-1786-4429-956a-728b9ede0f36)
 
 ## Referências
 
