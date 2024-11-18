@@ -15,3 +15,9 @@ magnético produzido pela bobina.
 Ao controlar o campo magnético gerado pelo eletroímã, o sistema consegue estabilizar o objeto
 levitado, ajustando sua distância em relação ao eletroímã. O ponto de equilíbrio pode ser 
 alterado por meio do ajuste da tensão de referência no comparador.
+
+* foto
+
+Para o suporte do projeto, utilizamos um modelo disponível no Thingiverse como base.
+
+![694957be85e14cae4f33ac5997d11b8a_display_large](https://github.com/user-attachments/assets/1cc49ee8-34da-4b27-a638-5d3e65a97f1e)
