@@ -13,3 +13,7 @@
 
 ![image](https://github.com/user-attachments/assets/00f72888-3be8-411e-9cbc-7b09ae5cd20e)
 
+## Referências
+
+Playlist no YouTube: "Controle PID com Arduino - Aula 15", disponível em: https://www.youtube.com/watch?v=z6f-lXpHKz4&list=PLSQMBAGorPmUkrGbE4Pem4aGnRrQWcQp7&index=15. Acesso em: 18 nov. 2024.
+
