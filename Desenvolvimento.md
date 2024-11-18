@@ -18,14 +18,14 @@ alterado por meio do ajuste da tensão de referência no comparador.
 
 ![Captura de tela 2024-11-18 125344](https://github.com/user-attachments/assets/fdde3a2e-a0cc-4661-b237-55a43d138bed), ![Levitador_magnético](https://github.com/user-attachments/assets/af01046c-6b2f-46d0-9ca2-be716a9102fe)
 
+Dimensionamento da bobina 
+
+![bobinaaaa](https://github.com/user-attachments/assets/71c6ce01-3fc1-4878-9ac5-643da35314fd)
+
 
 Para o suporte do projeto, utilizamos um modelo disponível no Thingiverse como base.
 
 ![Captura de tela 2024-11-18 132002](https://github.com/user-attachments/assets/312890af-1786-4429-956a-728b9ede0f36)
-
-Dimensionamento da bobina 
-
-![PI2_page-0001 (2)](https://github.com/user-attachments/assets/f9cb939d-0903-487b-aee7-9725d5d4a751)
 
 
 ## Referências
