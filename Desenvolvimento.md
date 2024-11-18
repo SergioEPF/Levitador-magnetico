@@ -1,3 +1,5 @@
+# Desenvolvimento
+
 O sensor de efeito Hall mede a posição do objeto levitado e envia um sinal de tensão proporcional
 à distância ao comparador. Esse comparador é implementado com um amplificador operacional,
 que compara o sinal recebido com uma tensão de referência ajustável. A tensão de referência 
