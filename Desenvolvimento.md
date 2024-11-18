@@ -27,6 +27,8 @@ Para o suporte do projeto, utilizamos um modelo disponível no Thingiverse como 
 
 ![Captura de tela 2024-11-18 132002](https://github.com/user-attachments/assets/312890af-1786-4429-956a-728b9ede0f36)
 
+[Link para o README](https://github.com/SergioEPF/Levitador-magnetico/blob/main/README.md)
+
 
 ## Referências
 
