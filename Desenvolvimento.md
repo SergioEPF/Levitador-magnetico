@@ -43,3 +43,5 @@ Artigo: GUEDES, Rafael Augusto de Oliveira. Projeto para Módulo Didático de um
 Artigo: ENDALECIO, Alan Dantas de Medeiros. Estudo e Implementação de um Sistema de Levitação Eletromagnética Utilizando Sensores de Efeito Hall. Disponível em: [https://pantheon.ufrj.br/handle/11422/11506].
 
 Modelo 3D: "Levitador magnético - Thingiverse", disponível em: https://www.thingiverse.com/thing:1392023. Acesso em: 18 nov. 2024.
+
+Modelo Tinkercad, disponivel em :https://www.tinkercad.com/things/8Kns8FBJWaN-shiny-gaaris
