@@ -23,6 +23,9 @@ Para o suporte do projeto, utilizamos um modelo disponível no Thingiverse como 
 
 ![Captura de tela 2024-11-18 132002](https://github.com/user-attachments/assets/312890af-1786-4429-956a-728b9ede0f36)
 
+Dimensionamento da bobina 
+![PI2_page-0001](https://github.com/user-attachments/assets/33798f6d-c319-4c44-9b66-1da31d0b3035)
+
 ## Referências
 
 Vídeo no YouTube: "Como construir um levitador magnético", disponível em: https://www.youtube.com/watch?v=eOT_G-1ogn4. Acesso em: 18 nov. 2024.
