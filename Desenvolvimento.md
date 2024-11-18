@@ -24,7 +24,9 @@ Para o suporte do projeto, utilizamos um modelo disponível no Thingiverse como 
 ![Captura de tela 2024-11-18 132002](https://github.com/user-attachments/assets/312890af-1786-4429-956a-728b9ede0f36)
 
 Dimensionamento da bobina 
-![PI2_page-0001](https://github.com/user-attachments/assets/33798f6d-c319-4c44-9b66-1da31d0b3035)
+
+![PI2_page-0001 (2)](https://github.com/user-attachments/assets/f9cb939d-0903-487b-aee7-9725d5d4a751)
+
 
 ## Referências
 
