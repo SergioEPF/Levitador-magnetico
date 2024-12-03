@@ -1,6 +1,6 @@
 # Levitador-magnetico
 
-[Link para o Desenvolvimento]((https://github.com/SergioEPF/Levitador-magnetico/blob/main/Docs/Desenvolvimento/Desenvolvimento.md))
+[Link para o Desenvolvimento](https://github.com/SergioEPF/Levitador-magnetico/blob/main/Docs/Desenvolvimento/Desenvolvimento.md)
 
   O projeto visa construir e analisar um sistema que utiliza um eletroimã para suspender objetos e mante-los flutuando no ar, a levitação magnética possui um grande potencial para revolucionar áreas como o transporte e a movimentação de cargas, ao reduzir o desgaste mecânico e o consumo de energia, além de ser essencial em setores que exigem ambientes limpos e livres de contaminação, como a medicina e indústrias de alta precisão.
 
