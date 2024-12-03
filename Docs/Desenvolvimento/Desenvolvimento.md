@@ -16,6 +16,9 @@ Ao controlar o campo magnético gerado pelo eletroímã, o sistema consegue esta
 levitado, ajustando sua distância em relação ao eletroímã. O ponto de equilíbrio pode ser 
 alterado por meio do ajuste da tensão de referência no comparador.
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/fdde3a2e-a0cc-4661-b237-55a43d138bed" alt="Descrição da imagem" width="300">
+</div>
 ![Captura de tela 2024-11-18 125344](https://github.com/user-attachments/assets/fdde3a2e-a0cc-4661-b237-55a43d138bed), ![Levitador_magnético](https://github.com/user-attachments/assets/af01046c-6b2f-46d0-9ca2-be716a9102fe)
 
 Dimensionamento da bobina 
