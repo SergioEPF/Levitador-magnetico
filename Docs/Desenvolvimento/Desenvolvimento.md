@@ -22,12 +22,15 @@ alterado por meio do ajuste da tensão de referência no comparador.
 
 Dimensionamento da bobina 
 
-![bobinaaaa](https://github.com/user-attachments/assets/71c6ce01-3fc1-4878-9ac5-643da35314fd)
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/71c6ce01-3fc1-4878-9ac5-643da35314fd" alt="Descrição da imagem" width="300">
+</div>
 
 Para o suporte do projeto, utilizamos um modelo disponível no Thingiverse como base.
 
-![Captura de tela 2024-11-18 132002](https://github.com/user-attachments/assets/312890af-1786-4429-956a-728b9ede0f36)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/312890af-1786-4429-956a-728b9ede0f36" alt="Descrição da imagem" width="300">
+</div>
 
 
 
