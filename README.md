@@ -10,9 +10,11 @@
 
   As possíveis aplicações da levitação magnética são vastas e impactam diretamente vários setores. No transporte, a tecnologia pode ser aplicada em trens de alta velocidade, enquanto em ambientes industriais, pode ser usada para o transporte de materiais sem o risco de contaminação ou desgaste. A levitação magnética também tem grande potencial na medicina, especialmente em equipamentos que exigem alta precisão e ambientes limpos. A tecnologia, portanto, não só tem a capacidade de melhorar a eficiência de sistemas existentes, como também pode criar novas soluções em diversas áreas industriais e comerciais, trazendo impactos significativos em termos de custo, performance e sustentabilidade.
 
-![image](https://github.com/user-attachments/assets/e2aaead4-24ef-45d1-9674-1c4fa7eb7eed)
+<div align="center" style="display: flex; justify-content: space-between; width: 80%;">
+  <img src="https://github.com/user-attachments/assets/e2aaead4-24ef-45d1-9674-1c4fa7eb7eed" alt="Imagem à esquerda" width="300">
+  <img src="https://github.com/user-attachments/assets/00f72888-3be8-411e-9cbc-7b09ae5cd20e" alt="Imagem à direita" width="407">
+</div>
 
-![image](https://github.com/user-attachments/assets/00f72888-3be8-411e-9cbc-7b09ae5cd20e)
 
 ## Referências
 
