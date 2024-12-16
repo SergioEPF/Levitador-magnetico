@@ -5,7 +5,11 @@ Esse conjunto é capaz de gerar um campo magnético suficiente para levitar um �
 A alimentação da bobina é controlada por um MOSFET, que atua como uma chave para regular o campo magnético conforme a necessidade do sistema, com o auxílio de um comparador baseado em um amplificador operacional (ampop).
 O circuito é alimentado por uma fonte de bancada de 12 V, capaz de fornecer até 2 A de corrente máxima, garantindo uma operação estável e segura.
 O controle do campo magnético é realizado por um circuito eletrônico que monitora a posição do objeto a ser levitado, utilizando um sensor de efeito Hall modelo 49E.
-Este sensor permite ativar e desativar o sistema de controle de forma precisa, assegurando o funcionamento adequado do levitador.
+Este sensor permite ativar e desativar o sistema de controle.
+
+Foram realizados testes iniciais em bancada para verificar o funcionamento do sistema de controle do levitador magnético. O primeiro teste avaliou a malha de controle formada pelo amplificador operacional (ampop) e pelo sensor de efeito Hall. Este teste apresentou resultados satisfatórios, funcionando perfeitamente conforme mostrado nas imagens abaixo.
+
+O segundo teste, que consiste na avaliação da malha completa (ampop, bobina e MOSFET), ainda não foi realizado devido à demora na chegada de um dos componentes necessários. Este teste será fundamental para validar a integração dos componentes e garantir o controle eficiente do campo magnético gerado pela bobina. (Este parágrafo será atualizado após a realização do teste.)
 
 
 
