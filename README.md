@@ -5,6 +5,10 @@
 
 *[Link para a Construção](https://github.com/SergioEPF/Levitador-magnetico/blob/main/Docs/Construção/Construção.md)
 
+
+*[Link para a Implementação](https://github.com/SergioEPF/Levitador-magnetico/blob/main/Docs/Implementa%C3%A7%C3%A3o/Implementa%C3%A7%C3%A3o.md)
+
+
   O projeto visa construir e analisar um sistema que utiliza um eletroimã para suspender objetos e mante-los flutuando no ar, a levitação magnética possui um grande potencial para revolucionar áreas como o transporte e a movimentação de cargas, ao reduzir o desgaste mecânico e o consumo de energia, além de ser essencial em setores que exigem ambientes limpos e livres de contaminação, como a medicina e indústrias de alta precisão.
 
   O objetivo central do projeto é desenvolver um protótipo funcional de levitador magnético utilizando um eletroímã para levitar um imã permanente. Para isso, é necessário estudar as condições ideais para garantir a levitação estável de diferentes objetos, bem como otimizar o sistema em termos de consumo de energia e desempenho. A criação de um sistema de controle analógico também faz parte dos objetivos do projeto, visando garantir a estabilidade e o controle eficiente da levitação. 
