@@ -10,7 +10,9 @@ O limite máximo recomendado para a corrente é 3A.
 
 O comparador está operando corretamente, garantindo a modulação do campo magnético conforme a posição do ímã. No entanto, o campo gerado pode precisar de ajustes para melhorar a sustentação.
 
-Para otimizar o desempenho, recomenda-se testar diferentes configurações da bobina, como aumentar o número de espiras ou reduzir sua resistência. O próximo passo do projeto será aprimorar a eficiência do sistema e garantir uma levitação mais estável.
+O sistema ficou instável nos testes, o imã vibra ao chegar perto da bobina e acaba grudando no eletroimã ou saindo do campo. 
+
+Fizemos alguns testes com outras bobinas e com diferentes correntes mas não chegamos a uma solução. 
 
 ![0c34652b-8204-46a0-8ba4-53899614b443](https://github.com/user-attachments/assets/b64aa917-37e4-468b-900e-5aa5dbd1f4c7)
 
